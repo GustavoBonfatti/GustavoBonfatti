@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gustavo Bonfatti
 
-🚀 **Internship Software Engineer | Back-end | Python | SQL**  
+🚀 **Software Engineer | Back-end | Python | SQL**  
 Brazil
 
 I develop software solutions using **Python, SQL, and APIs**, while exploring **Artificial Intelligence** and backend development.  
